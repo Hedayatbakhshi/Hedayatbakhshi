@@ -90,7 +90,7 @@
       color: '#ffffff',
       letterSpacing: '-0.5px',
     }}>
-      Ilyamiro
+      Hedayatullah Bakhshi
     </span>
     <span style={{
       fontSize: '15px',
@@ -98,13 +98,6 @@
       fontWeight: '500',
     }}>
       open-source developer
-    </span>
-    <span style={{
-      fontSize: '13px',
-      color: '#90caf9',
-      fontWeight: '500',
-    }}>
-      ilyamiro.work@gmail.com
     </span>
   </div>
 </div>

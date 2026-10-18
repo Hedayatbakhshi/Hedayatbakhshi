@@ -1,4 +1,5 @@
 .npm-global/
 .npm-cache/
 .direnv/
+.idea/
 result
