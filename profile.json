@@ -1,15 +1,12 @@
 {
   "version": 1,
-  "login": "ilyamiro",
+  "login": "Hedayatbakhshi",
   "seed": "#7C3AED",
   "seedFromAvatar": false,
   "scheme": "vibrant",
   "motion": true,
   "iconFill": true,
-  "order": [
-    "hero",
-    "socials"
-  ],
+  "order": ["hero", "socials"],
   "hidden": [
     "about",
     "stack",
@@ -21,14 +18,14 @@
   ],
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "Ilyamiro",
+    "name": "Hedayat",
     "subtitle": "open-source developer",
     "typing": false,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Denmark"
+        "label": "Afghanistan"
       },
       {
         "icon": "brand:osi",
@@ -72,15 +69,10 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/sacrificeit"
+        "url": ""
       },
       {
-        "icon": "brand:youtube",
-        "url": "https://www.youtube.com/@ilyamiro21"
-      },
-      {
-        "icon": "brand:reddit",
-        "url": "https://www.reddit.com/user/ilyamiro1"
+        "icon": "brand:youtube"
       },
       {
         "icon": "brand:discordtag",
@@ -88,7 +80,7 @@
       },
       {
         "icon": "brand:mailtag",
-        "url": "mailto:ilyamiro.work@gmail.com"
+        "url": "mailto:hedayatbakhshi001@gmail.com"
       }
     ],
     "variant": "chip",
