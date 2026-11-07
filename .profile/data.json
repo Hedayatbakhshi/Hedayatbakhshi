@@ -1,8 +1,8 @@
 {
- "key": "c801c4a1",
+ "key": "5802d8c2",
  "stars": 1,
  "contributions": 118,
- "repos": 11,
+ "repos": 8,
  "followers": 2,
  "languages": [
   [
@@ -161,24 +161,6 @@
    "topics": []
   },
   {
-   "name": "deckcraft",
-   "url": "https://github.com/Hedayatbakhshi/deckcraft",
-   "text": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
-   "fork": true,
-   "stars": 0,
-   "language": "Rust",
-   "topics": []
-  },
-  {
-   "name": "dank-qml-common",
-   "url": "https://github.com/Hedayatbakhshi/dank-qml-common",
-   "text": "Common QML Assets for DMS and the rest of the Dank Linux Suite",
-   "fork": true,
-   "stars": 0,
-   "language": "QML",
-   "topics": []
-  },
-  {
    "name": "dms-aurora-clock",
    "url": "https://github.com/Hedayatbakhshi/dms-aurora-clock",
    "text": "Clock for DMS(DankMaterialShell)",
@@ -200,15 +182,6 @@
    "name": "serpantinum",
    "url": "https://github.com/Hedayatbakhshi/serpantinum",
    "text": "A shell for wayland compositors",
-   "fork": true,
-   "stars": 0,
-   "language": "QML",
-   "topics": []
-  },
-  {
-   "name": "Nebula",
-   "url": "https://github.com/Hedayatbakhshi/Nebula",
-   "text": "A material3 Quickshell design",
    "fork": true,
    "stars": 0,
    "language": "QML",
