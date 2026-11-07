@@ -1,453 +1,235 @@
 {
- "key": "8064404d",
- "stars": 8307,
- "contributions": 2545,
- "repos": 22,
- "followers": 881,
+ "key": "c801c4a1",
+ "stars": 1,
+ "contributions": 118,
+ "repos": 11,
+ "followers": 2,
  "languages": [
   [
+   "Java",
+   222606
+  ],
+  [
    "QML",
-   6308217
-  ],
-  [
-   "Rust",
-   4839432
-  ],
-  [
-   "Python",
-   1471986
-  ],
-  [
-   "JavaScript",
-   340125
-  ],
-  [
-   "C++",
-   102186
-  ],
-  [
-   "C",
-   95285
-  ],
-  [
-   "CSS",
-   83850
+   5981
   ]
  ],
  "days": [
   [
    {
-    "c": 33,
+    "c": 1,
     "day": 18,
     "today": false
    },
    {
-    "c": 39,
+    "c": 0,
     "day": 19,
     "today": false
    },
    {
-    "c": 32,
+    "c": 0,
     "day": 20,
     "today": false
    },
    {
-    "c": 95,
+    "c": 0,
     "day": 21,
     "today": false
    },
    {
-    "c": 98,
+    "c": 0,
     "day": 22,
     "today": false
    },
    {
-    "c": 97,
+    "c": 0,
     "day": 23,
     "today": false
    },
    {
-    "c": 95,
+    "c": 0,
     "day": 24,
     "today": false
    }
   ],
   [
    {
-    "c": 43,
+    "c": 0,
     "day": 25,
     "today": false
    },
    {
-    "c": 48,
+    "c": 0,
     "day": 26,
     "today": false
    },
    {
-    "c": 106,
+    "c": 0,
     "day": 27,
     "today": false
    },
    {
-    "c": 102,
+    "c": 0,
     "day": 28,
     "today": false
    },
    {
-    "c": 48,
+    "c": 0,
     "day": 29,
     "today": false
    },
    {
-    "c": 45,
+    "c": 2,
     "day": 30,
     "today": false
    },
    {
-    "c": 30,
+    "c": 2,
     "day": 31,
     "today": false
    }
   ],
   [
    {
-    "c": 37,
+    "c": 0,
     "day": 1,
     "today": false
    },
    {
-    "c": 53,
+    "c": 4,
     "day": 2,
     "today": false
    },
    {
-    "c": 49,
+    "c": 14,
     "day": 3,
     "today": false
    },
    {
-    "c": 46,
+    "c": 17,
     "day": 4,
     "today": false
    },
    {
-    "c": 34,
+    "c": 15,
     "day": 5,
     "today": false
    },
    {
-    "c": 29,
+    "c": 4,
     "day": 6,
     "today": false
    },
    {
-    "c": 6,
+    "c": 0,
     "day": 7,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 42,
-  "longest": 42
+  "current": 5,
+  "longest": 5
  },
- "pins": [
-  {
-   "name": "serpantinum",
-   "url": "https://github.com/ilyamiro/serpantinum",
-   "text": "A shell for wayland compositors",
-   "fork": false,
-   "stars": 7630,
-   "language": "QML",
-   "topics": [
-    "desktop-environment",
-    "hyprland",
-    "niri",
-    "qt",
-    "qt6",
-    "quickshell",
-    "shell",
-    "sway",
-    "wayland",
-    "desktop-shell"
-   ]
-  },
-  {
-   "name": "stewart",
-   "url": "https://github.com/ilyamiro/stewart",
-   "text": "Personal voice assistant",
-   "fork": false,
-   "stars": 22,
-   "language": "Python",
-   "topics": [
-    "gpt",
-    "stt",
-    "tts",
-    "voice",
-    "voice-assistant",
-    "voice-control",
-    "voice-recognition"
-   ]
-  },
-  {
-   "name": "ilyamiro",
-   "url": "https://github.com/ilyamiro/ilyamiro",
-   "text": "Config files for my GitHub profile.",
-   "fork": false,
-   "stars": 49,
-   "language": "Nix",
-   "topics": [
-    "config",
-    "github-config"
-   ]
-  },
-  {
-   "name": "imperative-dots",
-   "url": "https://github.com/ilyamiro/imperative-dots",
-   "text": "A collection of my dots for those who are not using NixOS with an install script.",
-   "fork": false,
-   "stars": 233,
-   "language": "QML",
-   "topics": []
-  },
-  {
-   "name": "Ski",
-   "url": "https://github.com/ilyamiro/Ski",
-   "text": "A fast and convinient file manager",
-   "fork": false,
-   "stars": 50,
-   "language": "Rust",
-   "topics": []
-  },
-  {
-   "name": "ft9366-fingerprint",
-   "url": "https://github.com/ilyamiro/ft9366-fingerprint",
-   "text": "Open-source libfprint driver for the FocalTech FT9366 fingerprint reader (USB 2808:a658), packaged for NixOS",
-   "fork": false,
-   "stars": 1,
-   "language": "C",
-   "topics": []
-  }
- ],
+ "pins": [],
  "all": [
   {
-   "name": "serpantinum",
-   "url": "https://github.com/ilyamiro/serpantinum",
-   "text": "A shell for wayland compositors",
+   "name": "Supermarket-Project",
+   "url": "https://github.com/Hedayatbakhshi/Supermarket-Project",
+   "text": "A basic supermarket project already in development... :)",
    "fork": false,
-   "stars": 7630,
-   "language": "QML",
-   "topics": [
-    "desktop-environment",
-    "hyprland",
-    "niri",
-    "qt",
-    "qt6",
-    "quickshell",
-    "shell",
-    "sway",
-    "wayland",
-    "desktop-shell"
-   ]
-  },
-  {
-   "name": "imperative-dots",
-   "url": "https://github.com/ilyamiro/imperative-dots",
-   "text": "A collection of my dots for those who are not using NixOS with an install script.",
-   "fork": false,
-   "stars": 233,
-   "language": "QML",
+   "stars": 1,
+   "language": "Java",
    "topics": []
   },
   {
-   "name": "shell-wallpapers",
-   "url": "https://github.com/ilyamiro/shell-wallpapers",
-   "text": "A collection of my wallpapers for all those in need.",
-   "fork": false,
-   "stars": 216,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "hypr-comp",
-   "url": "https://github.com/ilyamiro/hypr-comp",
-   "text": "A repository containing files for hyprland's #5 ricing competition",
-   "fork": false,
-   "stars": 62,
-   "language": "QML",
-   "topics": []
-  },
-  {
-   "name": "Ski",
-   "url": "https://github.com/ilyamiro/Ski",
-   "text": "A fast and convinient file manager",
-   "fork": false,
-   "stars": 50,
+   "name": "mandara",
+   "url": "https://github.com/Hedayatbakhshi/mandara",
+   "text": "GPU Accelerated, Cohesive (Rust + GPUI Based) Linux Shell For Hyprland, Niri & Mango, in less than 100MiB of RAM.",
+   "fork": true,
+   "stars": 0,
    "language": "Rust",
    "topics": []
   },
   {
-   "name": "ilyamiro",
-   "url": "https://github.com/ilyamiro/ilyamiro",
+   "name": "Hedayatbakhshi",
+   "url": "https://github.com/Hedayatbakhshi/Hedayatbakhshi",
    "text": "Config files for my GitHub profile.",
-   "fork": false,
-   "stars": 49,
+   "fork": true,
+   "stars": 0,
    "language": "Nix",
-   "topics": [
-    "config",
-    "github-config"
-   ]
+   "topics": []
   },
   {
-   "name": "stewart",
-   "url": "https://github.com/ilyamiro/stewart",
-   "text": "Personal voice assistant",
-   "fork": false,
-   "stars": 22,
-   "language": "Python",
-   "topics": [
-    "gpt",
-    "stt",
-    "tts",
-    "voice",
-    "voice-assistant",
-    "voice-control",
-    "voice-recognition"
-   ]
+   "name": "deckcraft",
+   "url": "https://github.com/Hedayatbakhshi/deckcraft",
+   "text": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
   },
   {
-   "name": "waybar-dots",
-   "url": "https://github.com/ilyamiro/waybar-dots",
-   "text": "My configuration files for waybar",
+   "name": "dank-qml-common",
+   "url": "https://github.com/Hedayatbakhshi/dank-qml-common",
+   "text": "Common QML Assets for DMS and the rest of the Dank Linux Suite",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "dms-aurora-clock",
+   "url": "https://github.com/Hedayatbakhshi/dms-aurora-clock",
+   "text": "Clock for DMS(DankMaterialShell)",
    "fork": false,
-   "stars": 9,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "dms-plugin-registry",
+   "url": "https://github.com/Hedayatbakhshi/dms-plugin-registry",
+   "text": "Official and Third Party Plugins & Themes for DankMaterialShell",
+   "fork": true,
+   "stars": 0,
    "language": "CSS",
    "topics": []
   },
   {
-   "name": "chesser",
-   "url": "https://github.com/ilyamiro/chesser",
-   "text": "Convert any image into chess boards",
-   "fork": false,
-   "stars": 5,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "stewart-test",
-   "url": "https://github.com/ilyamiro/stewart-test",
-   "text": "A testing repository for my voice assistant on a newly configured NixOS machine.",
-   "fork": false,
-   "stars": 5,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "voicesynth",
-   "url": "https://github.com/ilyamiro/voicesynth",
-   "text": "Pip package for realistic voice synthesis",
-   "fork": false,
-   "stars": 5,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "serpantinum-audio",
-   "url": "https://github.com/ilyamiro/serpantinum-audio",
-   "text": "A c++ audio daemon for serpantinum",
-   "fork": false,
-   "stars": 4,
-   "language": "C++",
-   "topics": []
-  },
-  {
-   "name": "stewart-installer",
-   "url": "https://github.com/ilyamiro/stewart-installer",
-   "text": "Installer for stewart voice assistant",
-   "fork": false,
-   "stars": 4,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "serpantinum-gamma",
-   "url": "https://github.com/ilyamiro/serpantinum-gamma",
-   "text": "A gamma display control application for serpantinum",
-   "fork": false,
-   "stars": 3,
-   "language": "Rust",
-   "topics": []
-  },
-  {
-   "name": "media",
-   "url": "https://github.com/ilyamiro/media",
-   "text": "A collection of media files that are stored on github for my dotfiles",
-   "fork": false,
-   "stars": 3,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "Acanthus",
-   "url": "https://github.com/ilyamiro/Acanthus",
-   "text": "An engine for your desktop",
-   "fork": false,
-   "stars": 2,
-   "language": "Rust",
-   "topics": []
-  },
-  {
-   "name": "done-cli",
-   "url": "https://github.com/ilyamiro/done-cli",
-   "text": "A simple utility to log everyday actions",
-   "fork": false,
-   "stars": 2,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "Fighter",
-   "url": "https://github.com/ilyamiro/Fighter",
-   "text": "A fun tool to estimate someone's ability to fight",
-   "fork": false,
-   "stars": 2,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "nixpkgs",
-   "url": "https://github.com/ilyamiro/nixpkgs",
-   "text": "Nix Packages collection & NixOS",
-   "fork": true,
-   "stars": 1,
-   "language": "Nix",
-   "topics": []
-  },
-  {
-   "name": "ft9366-fingerprint",
-   "url": "https://github.com/ilyamiro/ft9366-fingerprint",
-   "text": "Open-source libfprint driver for the FocalTech FT9366 fingerprint reader (USB 2808:a658), packaged for NixOS",
-   "fork": false,
-   "stars": 1,
-   "language": "C",
-   "topics": []
-  },
-  {
-   "name": "serpantinum-core",
-   "url": "https://github.com/ilyamiro/serpantinum-core",
-   "text": "A core of services for Serpantinum shell in Rust.",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
-   "topics": []
-  },
-  {
-   "name": "awesome-hyprland",
-   "url": "https://github.com/ilyamiro/awesome-hyprland",
-   "text": "Awesome list for Hyprland [maintainer=@yavko]",
+   "name": "serpantinum",
+   "url": "https://github.com/Hedayatbakhshi/serpantinum",
+   "text": "A shell for wayland compositors",
    "fork": true,
    "stars": 0,
-   "language": null,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "Nebula",
+   "url": "https://github.com/Hedayatbakhshi/Nebula",
+   "text": "A material3 Quickshell design",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "My-I3-Dotfiles",
+   "url": "https://github.com/Hedayatbakhshi/My-I3-Dotfiles",
+   "text": "This is my i3 dotfiles and I use this for my Archlinux.",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "athena-eww",
+   "url": "https://github.com/Hedayatbakhshi/athena-eww",
+   "text": "Elkowars' wacky widget ecosystem for Athena",
+   "fork": true,
+   "stars": 0,
+   "language": "SCSS",
    "topics": []
   }
  ]
