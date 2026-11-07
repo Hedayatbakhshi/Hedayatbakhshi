@@ -68,6 +68,10 @@
   "socials": {
     "items": [
       {
+        "icon": "brand:discordtag",
+        "url": "https://discord.com/users/718080823253008505"
+      },
+      {
         "icon": "brand:mailtag",
         "url": "mailto:hedayatbakhshi001@gmail.com"
       }
