@@ -68,17 +68,6 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:telegram",
-        "url": ""
-      },
-      {
-        "icon": "brand:youtube"
-      },
-      {
-        "icon": "brand:discordtag",
-        "url": ""
-      },
-      {
         "icon": "brand:mailtag",
         "url": "mailto:hedayatbakhshi001@gmail.com"
       }
