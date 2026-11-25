@@ -1,17 +1,21 @@
 {
- "key": "1d5ffb8a",
+ "key": "df3f8686",
  "stars": 1,
- "contributions": 117,
- "repos": 10,
+ "contributions": 121,
+ "repos": 11,
  "followers": 2,
  "languages": [
   [
    "Java",
-   222606
+   950759
   ],
   [
    "QML",
    5981
+  ],
+  [
+   "Python",
+   4936
   ]
  ],
  "days": [
@@ -103,16 +107,20 @@
    {
     "c": 1,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 5
  },
  "pins": [],
@@ -123,6 +131,15 @@
    "text": "A basic supermarket project already in development... :)",
    "fork": false,
    "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Finance-Manager",
+   "url": "https://github.com/Hedayatbakhshi/Finance-Manager",
+   "text": "Track your money with a private, offline Android finance manager: accounts, income/expenses, budgets, recurring payments, savings goals, reports and household expenses. English & Persian, Material 3.",
+   "fork": false,
+   "stars": 0,
    "language": "Java",
    "topics": []
   },
